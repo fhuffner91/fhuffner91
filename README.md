@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Felipe Hüffner
+## Hello! I am Felipe Hüffner
  <div>
 <div align="auto">
   <a href="https://github.com/fhuffner91">
