@@ -1,17 +1,17 @@
  ## Hi there, I am Felipe Hüffner 👋
  ![](https://camo.githubusercontent.com/35491377da45ee7e2d429323355efc6040dc93cfbab2f81a0a047d269f7901c3/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f3675476854314f3473787069382f736f757263652e676966)
-- 🔭 I’m currently working on Full Stack Technologies
-- 🌱 I’m currently learning Javascript and Python
+- 🔭 I’m currently working on Front End Technologies
+- 🌱 I’m currently learning Front End & Python
 - 👯 I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me: felipeqh.1991@gmail.com
-- ⚡ Fun fact: Guitar player in a Heavy Metal band 🤘🤘🤘
+- ⚡ Fun fact: 🤘🤘🤘Guitar player in a Heavy Metal band 🤘🤘🤘
 
  <div>
 <div align="auto">
  <h2>Felipe's Github Stats</h2>
   <a href="https://github.com/fhuffner91">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fhuffner91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuffner91&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fhuffner91&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuffner91&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block">
 
