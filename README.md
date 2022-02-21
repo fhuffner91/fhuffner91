@@ -1,9 +1,9 @@
  ## Hi there, I am Felipe Hüffner 👋
  ![](https://developer.akamai.com/sites/default/files/inline-images/AstronautSpace.gif)
-- 🔭 I’m currently working on Talk 'n' Talk 1# Bootcamp
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently studying on [Rocketseat](https://www.rocketseat.com.br)
 - 🎓 Bachelor Degree's on Software Engineering on [Ampli](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj37rS9x_LzAhVyIK0GHa1pAA4YABAAGgJwdg&ohost=www.google.com&cid=CAESQeD2ZK0QHzi7ZIvePgnt49_7e192FdJh5Wx2DBixCm9Utb05AiYN78muzIYMrSvFVhOTwbHx_LxR9gUN2Gc81vnK&sig=AOD64_1KOyawCtD3f_fNBXgDgpXwnn-ALQ&q&adurl&ved=2ahUKEwiC3qa9x_LzAhXdqZUCHTAvCZYQ0Qx6BAgCEAE)
-- 👯 I’m looking to collaborate on Frontend Projects
+- 👯 I’m looking to collaborate or be employed on Frontend Projects
 - 📫 How to reach me: felipeqh.1991@gmail.com
 - ⚡ Fun fact: 🤘🤘🤘Guitar player in a [Heavy Metal band](https://onerpm.link/943243979254?fbclid=IwAR032jMM1L0ZlCS_Y6xrZiJx43XZccbY0Jp9UP0c-biwHox_sCFPE2S6tmY) 🤘🤘🤘
 
