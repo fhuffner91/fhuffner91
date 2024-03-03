@@ -1,9 +1,9 @@
  ## Hi there, I am Felipe Hüffner 👋
  ![](https://developer.akamai.com/sites/default/files/inline-images/AstronautSpace.gif)
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently studying React Js on Ignite [Rocketseat](https://www.rocketseat.com.br)
-- 🎓 Associate's Degree's in Strategic Planning and Analysis Systems Development on [Estácio](https://estacio.com.br)
-- 👯 I’m looking to collaborate or be employed on Frontend Projects
+- 🌱 I’m developer in some technologies that I like
+- 🎓 System Analysis and Development - UNIP
+- 👯 I’m looking to collaborate or be employed on projects that I like
 - 📫 How to reach me: felipeqh.1991@gmail.com
 - ⚡ Fun fact: 🤘🤘🤘Guitar player in a [Heavy Metal band](https://onerpm.link/943243979254?fbclid=IwAR032jMM1L0ZlCS_Y6xrZiJx43XZccbY0Jp9UP0c-biwHox_sCFPE2S6tmY) 🤘🤘🤘
 
