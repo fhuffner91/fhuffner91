@@ -26,7 +26,7 @@ Sou um desenvolvedor apaixonado por criar soluções web e mobile inovadoras, co
 ---
 
 ## 📊 **Estatísticas do GitHub**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)  
 
 ---
